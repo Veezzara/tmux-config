@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-REPO_URL="https://github.com/your-username/tmux-config.git"
+REPO_URL="https://github.com/Veezzara/tmux-config.git"
 TMUX_CONF_PATH="$HOME/.tmux.conf"
 TMUX_DIR_PATH="$HOME/.config/tmux"
 BACKUP_DIR="$HOME/tmux_backup"
